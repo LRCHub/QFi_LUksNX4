@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Boom Boom Pow",
+  "base_artist": "The Black Eyed Peas",
+  "createdAt": "2026-04-02T08:30:57.799893Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Boom Boom Pow",
+      "artist": "Black Eyed Peas",
+      "has_synced": true,
+      "path": "select/01_Boom_Boom_Pow_Black_Eyed_Peas.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Boom Boom Pow",
+      "artist": "The Black Eyed Peas",
+      "has_synced": true,
+      "path": "select/02_Boom_Boom_Pow_The_Black_Eyed_Peas.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Boom Boom Pow (Club Version)",
+      "artist": "The Black Eyed Peas",
+      "has_synced": true,
+      "path": "select/03_Boom_Boom_Pow_(Club_Version)_The_Black_Eyed_Peas.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Boom Boom Pow - Radio Edit",
+      "artist": "Black Eyed Peas",
+      "has_synced": true,
+      "path": "select/04_Boom_Boom_Pow_-_Radio_Edit_Black_Eyed_Peas.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Boom Boom Pow (radio edit)",
+      "artist": "The Black Eyed Peas",
+      "has_synced": true,
+      "path": "select/05_Boom_Boom_Pow_(radio_edit)_The_Black_Eyed_Peas.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Boom Boom Pow",
+      "artist": "Black Eyed Peas",
+      "has_synced": true,
+      "path": "select/06_Boom_Boom_Pow_Black_Eyed_Peas.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Boom Boom Pow",
+      "artist": "The Black Eyed Peas",
+      "has_synced": true,
+      "path": "select/07_Boom_Boom_Pow_The_Black_Eyed_Peas.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Boom Boom Pow",
+      "artist": "Black Eyed Peas",
+      "has_synced": true,
+      "path": "select/08_Boom_Boom_Pow_Black_Eyed_Peas.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Boom Boom Pow",
+      "artist": "Richard Cheese",
+      "has_synced": false,
+      "path": "select/09_Boom_Boom_Pow_Richard_Cheese.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Boom Boom Pow",
+      "artist": "The Black Eyed Peas",
+      "has_synced": true,
+      "path": "select/10_Boom_Boom_Pow_The_Black_Eyed_Peas.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Boom Boom Pow [Radio Edit]",
+      "artist": "The Black Eyed Peas",
+      "has_synced": true,
+      "path": "select/11_Boom_Boom_Pow_[Radio_Edit]_The_Black_Eyed_Peas.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Boom Boom Pow",
+      "artist": "Black Eyed Peas",
+      "has_synced": true,
+      "path": "select/12_Boom_Boom_Pow_Black_Eyed_Peas.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Boom Boom Pow",
+      "artist": "The Black Eyed Peas",
+      "has_synced": true,
+      "path": "select/13_Boom_Boom_Pow_The_Black_Eyed_Peas.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Boom Boom Pow",
+      "artist": "Black Eyed Peas",
+      "has_synced": true,
+      "path": "select/14_Boom_Boom_Pow_Black_Eyed_Peas.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Boom Boom Pow - New Album Version",
+      "artist": "Black Eyed Peas",
+      "has_synced": true,
+      "path": "select/15_Boom_Boom_Pow_-_New_Album_Version_Black_Eyed_Peas.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Boom Boom Pow",
+      "artist": "The Black Eyed Peas",
+      "has_synced": false,
+      "path": "select/pl_01_Boom_Boom_Pow_The_Black_Eyed_Peas.txt"
+    }
+  ]
+}
